@@ -1,5 +1,8 @@
 # Project_One_Repo
 
+County # 
+Year(s) - 2018 - 2022
+Frequency - Daily 
 
 Disaster Information Dataset ( API Integration) - 2018 - 2022 
 https://www.fema.gov/data-visualization/disaster-declarations-states-and-counties  - Rajesh
