@@ -41,6 +41,7 @@ Datasets <code style="color : name_color">[TO BE UPDATED AND FORMATED UPON COMPL
 
 * Disaster Information Dataset ( API Integration) - 2018 - 2022 
 https://www.fema.gov/data-visualization/disaster-declarations-states-and-counties  - Rajesh
+API Documentation # https://www.fema.gov/about/openfema/api
 
 * Disaster Declaration Dataset 
 https://lending.sba.gov/search-disaster/ - Jamie
