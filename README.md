@@ -10,16 +10,15 @@ The three-person project team sought to examine the relationship between extreme
 ### Evaluation Approach
 The team sought to identify patterns, trends relationships through the evaluation of extreme weather and climate events, event-related health impacts, and the agricultural productivity and commerce trends for impacted states as well as any resulting energy system and water constraints. 
  
- The team explored datasets published by the National Oceanic Atmospheric Agency (NOAA), US Department of Health and Human Services (HHS) and Center for Disease Control and Prevention (CDC), US Bureau of Labor Statistics (BLS), NC Department of Commerce, NC Utilities Commission, and the Federal Energy Regulatory Commission.
+ To investigate the impacts, the team explored datasets published by the National Oceanic Atmospheric Agency (NOAA), Federal Emergency Management Adminstration (FEMA), US Department of Health and Human Services (HHS) and Center for Disease Control and Prevention (CDC), US Bureau of Labor Statistics (BLS), NC Department of Commerce, NC Utilities Commission, and the Federal Energy Regulatory Commission. 
+ 
+ The team narrowed its efforts on the collection, transformation, analysis and visualization of daily, county-level data (where available) for the five-year period between 2018 - 2022, focusing on the relationship between extreme events and the following:
 
+* _FEMA Data:_ National disaster by type, location and date declared between 2018 to 2022 period
 
- <code style="color : name_color">[DESCRIBE ANALYSES CONDUCTED]</code>
+* _US SBA Data:_ Disaster assistance issued by the US Small Business Administration (SBA) Disaster Loan Program following declared disasters occuring within the 2018 to 2022 period
 
-### Data Analyzed
-The team narrowed its efforts on the collection, transformation, analysis and visualization of daily, county-level data (where available) for the five-year period between 2018 - 2022 for the following data sets:
-
-<code style="color : name_color">NOTE FINAL DATA USED IN ANALYSIS</code>
-
+* _CDC Data:_ TBD
 
 
 
