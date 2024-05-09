@@ -53,7 +53,8 @@ https://data.sba.gov/dataset/e243640a-ed1c-4941-850e-b2c6aa15cad3/resource/dfca7
 https://www.ncdps.gov/emergency-management/past-disasters
 
 * CDC- Mike
-https://data.cdc.gov/browse?limitTo=datasets
+https://data.cdc.gov
+https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp
 
 
 
