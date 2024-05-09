@@ -61,9 +61,9 @@ _[ADD ANY RELEVENT NOTES ABOUT DATA FILES]_
 
 ## Project Team Contributors
 
-Jamie Bond | [GitHub @jJBondAI](https://github.com/jbondAI/)
-Micheal Zumski | [GitHub @mikezumski](https://github.com/mikeszumski/)
-Rajesh Velamala | [GitHub @REJESHVELAMALA](https://github.com/rajeshvelamala/)
+* Jamie Bond | [GitHub @jJBondAI](https://github.com/jbondAI/) 
+* Micheal Zumski | [GitHub @mikezumski](https://github.com/mikeszumski/)
+* Rajesh Velamala | [GitHub @REJESHVELAMALA](https://github.com/rajeshvelamala/)
 
 ### Other Acknowledgments
 
