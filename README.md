@@ -18,7 +18,7 @@ The team sought to identify patterns, trends relationships through the evaluatio
 ### Data Analyzed
 The team narrowed its efforts on the collection, transformation, analysis and visualization of daily, county-level data (where available) for the five-year period between 2018 - 2022 for the following data sets:
 
-<code style="color : name_color">[NOTE FINAL DATA USED IN ANALYSIS]</code>
+<code style="color : name_color">NOTE FINAL DATA USED IN ANALYSIS</code>
 
 
 
