@@ -13,12 +13,32 @@ The team sought to identify patterns, trends relationships through the evaluatio
  The team explored datasets published by the National Oceanic Atmospheric Agency (NOAA), US Department of Health and Human Services (HHS) and Center for Disease Control and Prevention (CDC), US Bureau of Labor Statistics (BLS), NC Department of Commerce, NC Utilities Commission, and the Federal Energy Regulatory Commission.
 
 
- _[DESCRIBE ANALYSES CONDUPCTED]_
+ _[DESCRIBE ANALYSES CONDUCTED]_
 
-### Datasets Analyzed
+### Data Analyzed
 The team narrowed its efforts on the collection, transformation, analysis and visualization of daily, county-level data (where available) for the five-year period between 2018 - 2022 for the following data sets:
 
-_[TO BE UPDATED AND FORMATED UPON COMPLETION]_
+_[NOTE FINAL DATA USED IN ANALYSIS]_
+
+
+
+
+## Python Script Intructions
+To run the associated analysis, you will need to:
+* TBD
+* TBD
+* TBD
+
+### Dependencies
+
+Python Libraries
+* pandas
+* prophet (Google Colab)
+* datetime
+* numpy
+* matplotlib
+
+Datasets _[TO BE UPDATED AND FORMATED UPON COMPLETION]_
 
 * Disaster Information Dataset ( API Integration) - 2018 - 2022 
 https://www.fema.gov/data-visualization/disaster-declarations-states-and-counties  - Rajesh
@@ -37,35 +57,11 @@ https://data.cdc.gov/browse?limitTo=datasets
 
 
 
-
-## Python Script Intructions
-
-To run the associated analysis, you will need to:
-* TBD
-* TBD
-* TBD
-
-### Dependencies
-
-Python Libraries
-* pandas
-* prophet (Google Colab)
-* datetime
-* numpy
-* matplotlib
-
-### Data Files 
-
-_[ADD ANY RELEVENT NOTES ABOUT DATA FILES]_
-
-
 ## Project Team Contributors
-
 * Jamie Bond | [GitHub @JBondAI](https://github.com/jbondAI/) 
 * Micheal Zumski | [GitHub @mikezumski](https://github.com/mikeszumski/)
 * Rajesh Velamala | [GitHub @REJESHVELAMALA](https://github.com/rajeshvelamala/)
 
-### Other Acknowledgments
-
-Project instruction and requirements provided by [The Artificial Intelligence Boot Camp at UNC Charlotte](https://bootcamp.charlotte.edu/artificial-intelligence/)
+Other Acknowledgments
+* Project instruction and requirements provided by [The Artificial Intelligence Boot Camp at UNC Charlotte](https://bootcamp.charlotte.edu/artificial-intelligence/)
 
