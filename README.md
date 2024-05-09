@@ -5,7 +5,7 @@ This repository shares the source data, examination approach, data analytics scr
 The three-person project team sought to examine the relationship between extreme weather and climate events across public health, agriculture, labor and other economically significant indicators.
 
 ### Summary Findings
-\textcolor{_[ADD SUMMARY FINDINGS HERE]_}{red}
+<font color="red">_[ADD SUMMARY FINDINGS HERE]_</font>
 
 ### Evaluation Approach
 The team sought to identify patterns, trends relationships through the evaluation of extreme weather and climate events, event-related health impacts, and the agricultural productivity and commerce trends for impacted states as well as any resulting energy system and water constraints. 
@@ -13,12 +13,12 @@ The team sought to identify patterns, trends relationships through the evaluatio
  The team explored datasets published by the National Oceanic Atmospheric Agency (NOAA), US Department of Health and Human Services (HHS) and Center for Disease Control and Prevention (CDC), US Bureau of Labor Statistics (BLS), NC Department of Commerce, NC Utilities Commission, and the Federal Energy Regulatory Commission.
 
 
- \textcolor{_[DESCRIBE ANALYSES CONDUCTED]_}{red}
+ <font color="red">_[DESCRIBE ANALYSES CONDUCTED]_</font>
 
 ### Data Analyzed
 The team narrowed its efforts on the collection, transformation, analysis and visualization of daily, county-level data (where available) for the five-year period between 2018 - 2022 for the following data sets:
 
-\textcolor{red}{_[NOTE FINAL DATA USED IN ANALYSIS]_}{red}
+<font color="red">_[NOTE FINAL DATA USED IN ANALYSIS]_</font>
 
 
 
@@ -38,7 +38,7 @@ Python Libraries
 * numpy
 * matplotlib
 
-Datasets \textcolor{red}{_[TO BE UPDATED AND FORMATED UPON COMPLETION]_}{red}
+Datasets <font color="red">_[TO BE UPDATED AND FORMATED UPON COMPLETION]_</font>
 
 * Disaster Information Dataset ( API Integration) - 2018 - 2022 
 https://www.fema.gov/data-visualization/disaster-declarations-states-and-counties  - Rajesh
