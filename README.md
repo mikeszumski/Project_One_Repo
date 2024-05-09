@@ -4,7 +4,7 @@ This repository shares the source data, examination approach, data analytics scr
 ## Executive Summary
 The three-person project team sought to examine the relationship between extreme weather and climate events across public health, agriculture, labor and other economically significant indicators.
 
-## Summary Findings
+### Summary Findings
 _[ADD SUMMARY FINDINGS HERE]_
 
 ### Evaluation Approach
@@ -38,9 +38,7 @@ https://data.cdc.gov/browse?limitTo=datasets
 
 
 
-
-
-## Python Analysis Intructions
+## Python Script Intructions
 
 To run the associated analysis, you will need to:
 * TBD
@@ -56,7 +54,7 @@ Python Libraries
 * numpy
 * matplotlib
 
-## Data Files 
+### Data Files 
 
 _[ADD ANY RELEVENT NOTES ABOUT DATA FILES]_
 
@@ -67,7 +65,7 @@ Jamie Bond | [GitHub @jJBondAI](https://github.com/jbondAI/)
 Micheal Zumski | [GitHub @mikezumski](https://github.com/mikeszumski/)
 Rajesh Velamala | [GitHub @REJESHVELAMALA](https://github.com/rajeshvelamala/)
 
-## Acknowledgments
+### Other Acknowledgments
 
 Project instruction and requirements provided by [The Artificial Intelligence Boot Camp at UNC Charlotte](https://bootcamp.charlotte.edu/artificial-intelligence/)
 
