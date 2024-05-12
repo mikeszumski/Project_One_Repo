@@ -60,7 +60,7 @@ https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp
 
 ## Project Team Contributors
 * Jamie Bond | [GitHub @JBondAI](https://github.com/jbondAI/) 
-* Micheal Zumski | [GitHub @mikezumski](https://github.com/mikeszumski/)
+* Michael Szumski | [GitHub @mikeszumski](https://github.com/mikeszumski/)
 * Rajesh Velamala | [GitHub @REJESHVELAMALA](https://github.com/rajeshvelamala/)
 
 Other Acknowledgments
