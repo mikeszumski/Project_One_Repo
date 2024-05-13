@@ -14,9 +14,9 @@ The team sought to identify patterns, trends relationships through the evaluatio
  
  The team narrowed its efforts on the collection, transformation, analysis and visualization of daily, county-level data (where available) for the five-year period between 2018 - 2022, focusing on the relationship between extreme events and the following:
 
-* _FEMA Data:_ National disaster by type, location and date declared between 2018 to 2022 period, (extracted via FEMA API)
+* _FEMA Data:_ National disaster by type, location and date declared between 2012 to 2022 period, (extracted via FEMA API)
 
-* _US SBA Data:_ Disaster assistance issued by the US Small Business Administration (SBA) Disaster Loan Program following declared disasters occuring within the 2018 to 2022 period
+* _US SBA Data:_ Disaster assistance issued by the US Small Business Administration (SBA) Disaster Loan Program following declared disasters occuring within the 2012 to 2022 period
 
 * _CDC Data:_ TBD
 
