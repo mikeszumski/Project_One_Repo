@@ -18,7 +18,9 @@ The team sought to identify patterns, trends relationships through the evaluatio
 
 * _US SBA Data:_ Disaster assistance issued by the US Small Business Administration (SBA) Disaster Loan Program following declared disasters occuring within the 2012 to 2022 period
 
-* _CDC Data:_ TBD
+* _CDC Data:_ Mortality nationwide from 2018 - 2022, including cause of death.  Certain fields (location and date of death) are redacted to protect the privacy of the decedent and families.
+
+* _National Outbreak Reporting System (NORS)_ Reports of foodborne and waterborne disease outbreaks, as well as diseases spread by contact with environmental sources, infected people or animals.  
 
 
 
