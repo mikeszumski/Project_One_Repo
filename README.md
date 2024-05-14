@@ -20,7 +20,7 @@ The team sought to identify patterns, trends relationships through the evaluatio
 
 * _CDC Data:_ Mortality nationwide from 2018 - 2022, including cause of death.  Certain fields (location and date of death) are redacted to protect the privacy of the decedent and families.
 
-* _National Outbreak Reporting System (NORS)_ Reports of foodborne and waterborne disease outbreaks, as well as diseases spread by contact with environmental sources, infected people or animals.  An outbreak is defined as two or more infections from same source.
+* _National Outbreak Reporting System (NORS)_ Reports of foodborne and waterborne disease outbreaks, as well as diseases spread by contact with environmental sources, infected people or animals.  
 
 
 
