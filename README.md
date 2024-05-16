@@ -26,18 +26,21 @@ The team sought to identify patterns, trends relationships through the evaluatio
 
 ## Python Script Intructions
 To run the associated analysis, you will need to:
-* TBD
+* Ensure installation of 'openpyxl'  (Use pip or conda to install)
 * TBD
 * TBD
 
 ### Dependencies
 
 Python Libraries
-* pandas
-* prophet (Google Colab)
 * datetime
-* numpy
+* json
+* math
 * matplotlib
+* numpy
+* pandas
+* request
+* seaborn
 
 Datasets <code style="color : name_color">[TO BE UPDATED AND FORMATED UPON COMPLETION]</code>
 
