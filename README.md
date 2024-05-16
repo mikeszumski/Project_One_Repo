@@ -27,11 +27,11 @@ To investigate the impacts, the team explored datasets published by the National
 ### Data Analyzed
 The team narrowed its efforts on the collection, transformation, analysis and visualization of daily, county-level data (where available) for the five-year period between 2018 - 2022, focusing on the relationship between extreme events and the following:
 
-##FEMA Datasets## (extracted via APIs)
+__FEMA Datasets__ (extracted via APIs)
 * [Disaster Declaration Summaries for State and Counties (1953 to 2023)](https://www.fema.gov/data-visualization/disaster-declarations-states-and-counties)
 * [Public Assistance Funded Projects (1998 - 2023)](https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1)
 
-##Nationa CDC Datasets## (ingested datasets downlated from CDC data library)
+__Nationa CDC Datasets__ (ingested datasets downlated from CDC data library)
 * [National Outbreak Reporting (2010 to 2022)](https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp)
 * [Mortality Data for Public Use (2018 to 2023)](https://www.cdc.gov/nchs/nvss/mortality_public_use_data.htm)
 
