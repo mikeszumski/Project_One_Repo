@@ -24,7 +24,7 @@ Across the US, major weather and climate events appear to be occurring more freq
  
 To investigate the impacts, the team explored datasets published by the National Oceanic Atmospheric Agency (NOAA), Federal Emergency Management Adminstration (FEMA), US Department of Health and Human Services (HHS) and Center for Disease Control and Prevention (CDC), US Bureau of Labor Statistics (BLS), NC Department of Commerce, NC Utilities Commission, and the Federal Energy Regulatory Commission. 
 
-### Data Analyzed
+### Datasets Analyzed
 The team narrowed its efforts on the collection, transformation, analysis and visualization of daily, county-level data (where available) for the five-year period between 2018 - 2022, focusing on the relationship between extreme events and the following:
 
 __FEMA Datasets__ (extracted via APIs)
@@ -36,7 +36,7 @@ __Nationa CDC Datasets__ (ingested datasets downlated from CDC data library)
 * [Mortality Data for Public Use (2018 to 2023)](https://www.cdc.gov/nchs/nvss/mortality_public_use_data.htm)
 
 
-### Python Analysis
+### Data Analysis Using Python
 The team developed the __USDisaster_and_PublicHealth_DataAnalysis.ipynb__ python notebook to ingest, explore, transform, visualize and merge the datasets. Once merged, the investigating team analyzed a dataframe consisting for 430,142 records with 9 attributes:
 * Disaster number
 * Disaster name
@@ -55,16 +55,12 @@ Within the notebook, the investigating team analyzed the relationships between s
 * Reported Illnesses
 
 ### Analysis Results
-Our examination of the impacts of extreme weather and climate events on public health and local economy using data analysis revealed an increasing trend in disaster event frequency. Exploration of disaster data by year and location led to the following observations:
-* Texas has been a clear outlier in number of disasters 
-* The 2017 hurricane recovery in Puerto Rico and COVID-19 responses for TX and NY were three of the costliest disaster assistance efforts to date 
-
-Exploration of public health data, specifically mortality and hospitalizations during disaster periods, led to the following observations:
+__Key Observations__ 
+* Texas to be a clear outlier for number of disaster declarations
+* 2017 disaster declaration in Puerto Rico (Hurricanes Irma and Maria) and 2020 disaster declarations in TX and NY (COVID-19) three of the highest publicly funded disasters in US history 
 * Proliferation of privacy protection rules resulted in low resolution public health data being made available for public use (i.e., data not reported by location), dampening its utility for this analysis.
 
-Our overall analysis of the relationships between disaster declarations, economics, death, hospitalization and illness was largely inconclusive given the limited access to more meaningful public health data.
-
-An analysis comparing the disaster declarations corresponding to the highest values of assistance project amounts, death, hospitalization and illness revealed:
+__Key Analysis Findings__
 * 2017 Hurricane Irma/Maria disaster declaration in Puerto Rico corresponded with the highest disaster assistance funding in our dataset 
 * 2019 winter storm disaster declaration in Oregon corresponded with the highest US death counts in our dataset 
 * 2020 COVID-19 disaster declaration in Texas corresponded with the highest hospitalization count in our dataset
