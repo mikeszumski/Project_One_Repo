@@ -56,7 +56,7 @@ Within the notebook, the investigating team analyzed the relationships between s
 
 ### Analysis Results
 __Key Observations__ 
-* Texas to be a clear outlier for number of disaster declarations
+* Texas observed to be a clear outlier for number of disaster declarations
 * 2017 disaster declaration in Puerto Rico (Hurricanes Irma and Maria) and 2020 disaster declarations in TX and NY (COVID-19) three of the highest publicly funded disasters in US history 
 * Proliferation of privacy protection rules resulted in low resolution public health data being made available for public use (i.e., data not reported by location), dampening its utility for this analysis.
 
@@ -67,13 +67,13 @@ __Key Analysis Findings__
 * 2018 Hurricane Micheal disaster declaration in Florida corresponded with the highest illness count in our dataset
 
 ### Conclusion
-While it may be likely that the 2020 COVID-19 disaster declaration in Texas and peak hospitalization counts are related, the investigating team saw no compeling evidence to suggest a meaningfule relationship between the peak death and illness counts the conccurent disaster declarations identified.
+While it may be likely that the 2020 COVID-19 disaster declaration in Texas and peak hospitalization counts are related, the investigating team saw no compelling evidence to suggest a meaningful relationship between the peak death and illness counts the concurrent disaster declarations identified
 
 Given access to higher fidelity public health data and additional time to explore more public data, the investigating team may have opted to explore the following areas:
 * Evaluation of state-level disaster data normalized by land area and per capita
 * Relationship between extreme heat events (historically excluded from disaster declarations) on mortality and agricultural and productivity losses
 * Relationship between major flood events and prevalence of mosquito born illnesses
-* Possiblity of a delayed relationship between public health data and disaster declarations
+* Possibility of a delayed relationship between public health data and disaster declarations
 
 
 
